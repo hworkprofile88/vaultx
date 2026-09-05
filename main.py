@@ -1,4 +1,6 @@
 import requests
 import pandas as pd
 
-print("virtual environment & pkgs!")
+print ("==================")
+print("VaultX Ai Interenship Environment OK ")
+print ("==================")
